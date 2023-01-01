@@ -1,4 +1,4 @@
-# white_noise_sleep_better
+# White Noise: Sleep Better
 
 A new Flutter project.
 
