@@ -75,191 +75,191 @@ enum AudioData {
 
   birds(
     name: 'Birds',
-    icon: 'assets/icons/city/ic_birds_normal.png',
+    icon: 'assets/icons/forest/ic_birds_normal.png',
     category: AudioCategory.forest,
-    audio: 'assets/audio/city/birds.mp3',
+    audio: 'assets/audio/forest/birds.mp3',
   ),
 
   creek(
     name: 'Creek',
-    icon: 'assets/icons/city/ic_creek_normal.png',
+    icon: 'assets/icons/forest/ic_creek_normal.png',
     category: AudioCategory.forest,
-    audio: 'assets/audio/city/creek.mp3',
+    audio: 'assets/audio/forest/creek.mp3',
   ),
 
   fire(
     name: 'Fire',
-    icon: 'assets/icons/city/ic_fire_normal.png',
+    icon: 'assets/icons/forest/ic_fire_normal.png',
     category: AudioCategory.forest,
-    audio: 'assets/audio/city/fire.mp3',
+    audio: 'assets/audio/forest/fire.mp3',
   ),
 
   forest(
     name: 'Forest',
-    icon: 'assets/icons/city/ic_forest_normal.png',
+    icon: 'assets/icons/forest/ic_forest_normal.png',
     category: AudioCategory.forest,
-    audio: 'assets/audio/city/forest.mp3',
+    audio: 'assets/audio/forest/forest.mp3',
   ),
 
   frogs(
     name: 'Frogs',
-    icon: 'assets/icons/city/ic_frogs_normal.png',
+    icon: 'assets/icons/forest/ic_frogs_normal.png',
     category: AudioCategory.forest,
-    audio: 'assets/audio/city/frogs.mp3',
+    audio: 'assets/audio/forest/frogs.mp3',
   ),
 
   grasshoppers(
     name: 'Grasshoppers',
-    icon: 'assets/icons/city/ic_grasshoppers_normal.png',
+    icon: 'assets/icons/forest/ic_grasshoppers_normal.png',
     category: AudioCategory.forest,
-    audio: 'assets/audio/city/grasshoppers.mp3',
+    audio: 'assets/audio/forest/grasshoppers.mp3',
   ),
 
   leaves(
     name: 'Leaves',
-    icon: 'assets/icons/city/ic_leaves_normal.png',
+    icon: 'assets/icons/forest/ic_leaves_normal.png',
     category: AudioCategory.forest,
-    audio: 'assets/audio/city/leaves.mp3',
+    audio: 'assets/audio/forest/leaves.mp3',
   ),
 
   waterfall(
     name: 'Waterfall',
-    icon: 'assets/icons/city/ic_waterfall_normal.png',
+    icon: 'assets/icons/forest/ic_waterfall_normal.png',
     category: AudioCategory.forest,
-    audio: 'assets/audio/city/waterfall.mp3',
+    audio: 'assets/audio/forest/waterfall.mp3',
   ),
 
   wind(
     name: 'Wind',
-    icon: 'assets/icons/city/ic_wind_normal.png',
+    icon: 'assets/icons/forest/ic_wind_normal.png',
     category: AudioCategory.forest,
-    audio: 'assets/audio/city/wind.mp3',
+    audio: 'assets/audio/forest/wind.mp3',
   ),
 
   bells(
     name: 'Bells',
-    icon: 'assets/icons/city/ic_bells_normal.png',
+    icon: 'assets/icons/meditation/ic_bells_normal.png',
     category: AudioCategory.meditation,
-    audio: 'assets/audio/city/bells.mp3',
+    audio: 'assets/audio/meditation/bells.mp3',
   ),
 
   bowl(
     name: 'Bowl',
-    icon: 'assets/icons/city/ic_bowl_normal.png',
+    icon: 'assets/icons/meditation/ic_bowl_normal.png',
     category: AudioCategory.meditation,
-    audio: 'assets/audio/city/bowl.mp3',
+    audio: 'assets/audio/meditation/bowl.mp3',
   ),
 
   brownNoise(
     name: 'Brown Noise',
-    icon: 'assets/icons/city/ic_brown_noise_normal.png',
+    icon: 'assets/icons/meditation/ic_brown_noise_normal.png',
     category: AudioCategory.meditation,
-    audio: 'assets/audio/city/brown_noise.mp3',
+    audio: 'assets/audio/meditation/brown_noise.mp3',
   ),
 
   flute(
     name: 'Flute',
-    icon: 'assets/icons/city/ic_flute_normal.png',
+    icon: 'assets/icons/meditation/ic_flute_normal.png',
     category: AudioCategory.meditation,
-    audio: 'assets/audio/city/flute.mp3',
+    audio: 'assets/audio/meditation/flute.mp3',
   ),
 
   piano(
     name: 'Piano',
-    icon: 'assets/icons/city/ic_piano_normal.png',
+    icon: 'assets/icons/meditation/ic_piano_normal.png',
     category: AudioCategory.meditation,
-    audio: 'assets/audio/city/piano.mp3',
+    audio: 'assets/audio/meditation/piano.mp3',
   ),
 
   pinkNoise(
     name: 'Pink Noise',
-    icon: 'assets/icons/city/ic_pink_noise_normal.png',
+    icon: 'assets/icons/meditation/ic_pink_noise_normal.png',
     category: AudioCategory.meditation,
-    audio: 'assets/audio/city/pink_noise.mp3',
+    audio: 'assets/audio/meditation/pink_noise.mp3',
   ),
 
   stones(
     name: 'Stones',
-    icon: 'assets/icons/city/ic_stones_normal.png',
+    icon: 'assets/icons/meditation/ic_stones_normal.png',
     category: AudioCategory.meditation,
-    audio: 'assets/audio/city/stones.mp3',
+    audio: 'assets/audio/meditation/stones.mp3',
   ),
 
   whiteNoise(
     name: 'White Noise',
-    icon: 'assets/icons/city/ic_white_noise_normal.png',
+    icon: 'assets/icons/meditation/ic_white_noise_normal.png',
     category: AudioCategory.meditation,
-    audio: 'assets/audio/city/white_noise.mp3',
+    audio: 'assets/audio/meditation/white_noise.mp3',
   ),
 
   windChimes(
     name: 'Wind Chimes',
-    icon: 'assets/icons/city/ic_wind_chimes_normal.png',
+    icon: 'assets/icons/meditation/ic_wind_chimes_normal.png',
     category: AudioCategory.meditation,
-    audio: 'assets/audio/city/wind_chimes.mp3',
+    audio: 'assets/audio/meditation/wind_chimes.mp3',
   ),
 
   light(
     name: 'Light',
-    icon: 'assets/icons/city/ic_light_normal.png',
+    icon: 'assets/icons/rain/ic_light_normal.png',
     category: AudioCategory.rain,
-    audio: 'assets/audio/city/light.mp3',
-  ),
-
-  normal(
-    name: 'Normal',
-    icon: 'assets/icons/city/ic_normal_normal.png',
-    category: AudioCategory.rain,
-    audio: 'assets/audio/city/normal.mp3',
+    audio: 'assets/audio/rain/light.mp3',
   ),
 
   ocean(
     name: 'Ocean',
-    icon: 'assets/icons/city/ic_ocean_normal.png',
+    icon: 'assets/icons/rain/ic_ocean_normal.png',
     category: AudioCategory.rain,
-    audio: 'assets/audio/city/ocean.mp3',
+    audio: 'assets/audio/rain/ocean.mp3',
   ),
 
   onLeaves(
     name: 'On Leaves',
-    icon: 'assets/icons/city/ic_on_leaves_normal.png',
+    icon: 'assets/icons/rain/ic_on_leaves_normal.png',
     category: AudioCategory.rain,
-    audio: 'assets/audio/city/on_leaves.mp3',
+    audio: 'assets/audio/rain/on_leaves.mp3',
   ),
 
   onRoof(
     name: 'On Roof',
-    icon: 'assets/icons/city/ic_on_roof_normal.png',
+    icon: 'assets/icons/rain/ic_on_roof_normal.png',
     category: AudioCategory.rain,
-    audio: 'assets/audio/city/on_roof.mp3',
+    audio: 'assets/audio/rain/on_roof.mp3',
   ),
 
   onWindow(
     name: 'On Window',
-    icon: 'assets/icons/city/ic_on_window_normal.png',
+    icon: 'assets/icons/rain/ic_on_window_normal.png',
     category: AudioCategory.rain,
-    audio: 'assets/audio/city/on_window.mp3',
+    audio: 'assets/audio/rain/on_window.mp3',
+  ),
+
+  rain(
+    name: 'Rain',
+    icon: 'assets/icons/rain/ic_rain_normal.png',
+    category: AudioCategory.rain,
+    audio: 'assets/audio/rain/normal.mp3',
   ),
 
   thunders(
     name: 'Thunders',
-    icon: 'assets/icons/city/ic_thunders_normal.png',
+    icon: 'assets/icons/rain/ic_thunders_normal.png',
     category: AudioCategory.rain,
-    audio: 'assets/audio/city/thunders.mp3',
+    audio: 'assets/audio/rain/thunders.mp3',
   ),
 
   underUmbrella(
     name: 'Under Umbrella',
-    icon: 'assets/icons/city/ic_under_umbrella_normal.png',
+    icon: 'assets/icons/rain/ic_under_umbrella_normal.png',
     category: AudioCategory.rain,
-    audio: 'assets/audio/city/under_umbrella.mp3',
+    audio: 'assets/audio/rain/under_umbrella.mp3',
   ),
 
   water(
     name: 'Water',
-    icon: 'assets/icons/city/ic_water_normal.png',
+    icon: 'assets/icons/rain/ic_water_normal.png',
     category: AudioCategory.rain,
-    audio: 'assets/audio/city/water.mp3',
+    audio: 'assets/audio/rain/water.mp3',
   );
 
   final String name;

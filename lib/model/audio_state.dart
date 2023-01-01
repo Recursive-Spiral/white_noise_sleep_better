@@ -18,6 +18,16 @@ class AudioState extends Equatable {
     return audioDataList.firstWhere((a) => a.audioData.name == name);
   }
 
+  bool isAudioDataPresent(String name) {
+    return audioDataList
+        .any((audioDataClass) => audioDataClass.audioData.name == name);
+  }
+
+  double getAudioDataClassVolume(String name) {
+    final AudioDataClass audioDataClass = fromName(name: name);
+    return audioDataClass.volume;
+  }
+
   @override
   List<Object> get props => [audioDataList];
 
